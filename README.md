@@ -1,5 +1,5 @@
 # LungoJS
-=======
+______
 
 LungoJS es un framework HTML5 pensado en los desarrolladores a los que también les gusta el diseño, desarrollado para que crear aplicaciones compatibles con todos los dispositivos.
 
@@ -13,6 +13,8 @@ LungoJS es un framework HTML5 pensado en los desarrolladores a los que también 
 
 *Versión actual: 2.2.0*
 
-======
+_______
 
-Ya funcionando [Mi sitio Lungo] (www.donjl.byethost18.com/lungo/ "Mi Lungo") 
+Ya funcionando [Mi sitio Lungo](http://www.donjl.byethost18.com/lungo/) 
+
+________
